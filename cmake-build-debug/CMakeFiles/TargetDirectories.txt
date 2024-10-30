@@ -1,0 +1,10 @@
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio1.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio2.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio3.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio4.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio5.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio6.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio7.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/Ejercicio8.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leo/CLionProjects/BasesDeProgramacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
